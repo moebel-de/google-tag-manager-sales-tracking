@@ -15,5 +15,5 @@
 homepage: "https://www.moebel.de"
 documentation: "https://partner-integration.moebel.de"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 85e840a73ac08f466bd7be1df82d3e94eb6e19da
     changeNotes: Initial Version
